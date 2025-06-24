@@ -24,7 +24,6 @@
 
 <p align="justify-between">
   <img src="https://github-readme-stats.vercel.app/api?username=ryanhang07&show_icons=true&locale=en" alt="ryanhang07" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanhang07&" alt="ryanhang07" />
 </p>
 
