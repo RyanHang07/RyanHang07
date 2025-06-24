@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanhang07&label=Profile%20views&color=0e75b6&style=flat" alt="ryanhang07" /> </p>
 <p align="justify">
   <p>
-  - 🌱 I’m currently learning **DevOps.
+  - 🌱 I’m currently learning **DevOps**.
     
   - 🤝 I’m looking for help with **AI research and development.**
   
-  - 👨‍💻 All of my projects are available at [TBA](TBA)
+  - 👨‍💻 All of my projects are available here! [Link](TBA)
 
   </p>
 </p>
