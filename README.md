@@ -9,7 +9,7 @@
     
   - 🤝 I’m looking for help with <b>AI research and development.</b>
   
-  - 👨‍💻 All of my projects are available here! [Link](TBA)
+  - 👨‍💻 You can view my portfolio here! [Link](https://ryanhang.io/)
 
   </p>
 </p>
